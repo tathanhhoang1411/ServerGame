@@ -1,0 +1,12 @@
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Debug\AppLuckyNumber(Server).exe.config
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Debug\AppLuckyNumber(Server).exe
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Debug\AppLuckyNumber(Server).pdb
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).csproj.AssemblyReference.cache
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber_Server_.Form1.resources
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber_Server_.Properties.Resources.resources
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).csproj.GenerateResource.cache
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).csproj.CoreCompileInputs.cache
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).exe
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).pdb
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Debug\xNet.dll
+D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Debug\AppLuckyNumber(Server).csproj.CopyComplete
