@@ -10,3 +10,15 @@ D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj
 D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).csproj.CopyComplete
 D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).exe
 D:\WORK\Project XoSoConGaTrong\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).pdb
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Release\AppLuckyNumber(Server).exe.config
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Release\AppLuckyNumber(Server).exe
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Release\AppLuckyNumber(Server).pdb
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\bin\Release\xNet.dll
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).csproj.AssemblyReference.cache
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber_Server_.Form1.resources
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber_Server_.Properties.Resources.resources
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).csproj.GenerateResource.cache
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).csproj.CoreCompileInputs.cache
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).csproj.CopyComplete
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).exe
+D:\WORK\ServerGame\AppLuckyNumber(Server)\AppLuckyNumber(Server)\obj\Release\AppLuckyNumber(Server).pdb
