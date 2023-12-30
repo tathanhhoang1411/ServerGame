@@ -79,7 +79,7 @@ namespace AppLuckyNumber_Server_
                             }
                         //}
                         int minute2 = DateTime.Now.Minute;
-                        Thread.Sleep((timeCycle - minute2) * 60 * 1000);
+                        Thread.Sleep((2) * 60 * 1000);
                         //Thread.Sleep(timeCycle * 60 * 1000);
                     }
                 });
@@ -174,26 +174,26 @@ namespace AppLuckyNumber_Server_
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            try
-            {
-                // Kiểm tra xem người dùng có đang tắt chương trình không
-                if (e.CloseReason == CloseReason.UserClosing)
-                {
-                    // Lấy danh sách tất cả các quá trình đang chạy
-                    Process[] processes = Process.GetProcesses();
+            //try
+            //{
+            //    // Kiểm tra xem người dùng có đang tắt chương trình không
+            //    if (e.CloseReason == CloseReason.UserClosing)
+            //    {
+            //        // Lấy danh sách tất cả các quá trình đang chạy
+            //        Process[] processes = Process.GetProcesses();
 
-                    // Lặp qua tất cả các quá trình
-                    foreach (Process process in processes)
-                    {
-                        // Đóng tất cả các luồng của quá trình
-                        process.Kill();
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
+            //        // Lặp qua tất cả các quá trình
+            //        foreach (Process process in processes)
+            //        {
+            //            // Đóng tất cả các luồng của quá trình
+            //            process.Kill();
+            //        }
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
 
-            }
+            //}
         }
     }
 }
