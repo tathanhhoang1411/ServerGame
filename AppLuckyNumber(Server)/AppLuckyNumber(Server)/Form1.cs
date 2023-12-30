@@ -79,7 +79,8 @@ namespace AppLuckyNumber_Server_
                             }
                         //}
                         int minute2 = DateTime.Now.Minute;
-                        Thread.Sleep((2) * 60 * 1000);
+                        //Thread.Sleep((2) * 60 * 1000);
+                        Thread.Sleep((timeCycle- minute2) * 60 * 1000);
                         //Thread.Sleep(timeCycle * 60 * 1000);
                     }
                 });
